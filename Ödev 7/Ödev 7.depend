@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586630664 source:c:\users\user\desktop\kodlar\boþ boþ\ödev\hafta 7 Ödev\Ödev 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
